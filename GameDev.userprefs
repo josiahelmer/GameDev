@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="GameDev/GameDev.csproj" />
+﻿<Properties StartupItem="GameDev/GameDev.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameDev/Controlller/GameDev.cs">
+    <Files>
+      <File FileName="GameDev/Controlller/GameDev.cs" Line="71" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
