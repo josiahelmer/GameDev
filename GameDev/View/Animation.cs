@@ -2,9 +2,9 @@
 
 namespace GameDev
 {
-	public class EmptyClass
+	public class Animation
 	{
-		public EmptyClass ()
+		public Animation ()
 		{
 		}
 	}
