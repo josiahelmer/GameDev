@@ -55,7 +55,7 @@ namespace GameDev.Controller
 			bgLayer1 = new ParallaxingBackground ();
 			bgLayer2 = new ParallaxingBackground ();
 
-			mainBackground = LoadContent > LoadContent<Texture2D> ("Textures/mainbackground");
+			mainBackground = Content>LoadContent<Texture2D>("Textures/mainbackground");
 		
 			enemySpawnTime = TimeSpan.FromSecnods (1.0f);
 
